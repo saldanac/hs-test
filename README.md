@@ -1,1 +1,1 @@
-# Este es una prueba de proyecto en Laravel
+# Esto es una prueba.
